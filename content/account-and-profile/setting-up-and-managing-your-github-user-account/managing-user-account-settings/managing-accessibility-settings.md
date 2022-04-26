@@ -18,3 +18,4 @@ All keyboard shortcuts are enabled by default on {% data variables.product.produ
 1. Select or deselect the **Enable character key shortcuts** checkbox.
    ![Screenshot of the 'Enable character key shortcuts' checkbox](/assets/images/help/settings/disable-character-key-shortcuts.png)
 2. Click **Save**.
+
